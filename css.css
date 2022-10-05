@@ -1,0 +1,22 @@
+#div1,#div2,#div3 {
+    width: 250px;
+    height: 300px;
+    padding: 10px;
+    border: 1px solid #aaaaaa;
+    border-color: crimson;
+    border-width: 5px;
+    border-radius: 30px;
+    margin: 10px;
+  }
+ 
+  
+  #div{
+      display: flex;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   color: orange;
+  
+  }
+  #head{
+    align-content: center;
+    color: royalblue;
+  }
